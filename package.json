@@ -7,7 +7,7 @@
 	},
 	"scripts": {
 		"dev": "npm run open-browser && vite dev",
-		"open-browser": "start http://localhost:5015/",
+		"open-browser": "start http://localhost:5500/",
 		"build": "vite build",
 		"preview": "vite preview",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./jsconfig.json",
